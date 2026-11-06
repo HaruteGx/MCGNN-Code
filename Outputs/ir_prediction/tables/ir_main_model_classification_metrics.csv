@@ -1,0 +1,2 @@
+﻿Classification Dataset,total_rows,valid_predictions,scored_rows,failed_predictions,unscored_predictions,lower_boundary,upper_boundary,correct,accuracy,balanced_accuracy,macro_f1
+Ir,251,251,251,0,0,23.0,25.0,227,0.9043824701195219,0.9032309779257615,0.9060846647638421
