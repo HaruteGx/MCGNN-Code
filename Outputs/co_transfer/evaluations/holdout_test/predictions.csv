@@ -1,0 +1,15 @@
+﻿Name,Predicted G (kcal/mol),Temperature (K),Predicted Delta H (kcal/mol),Predicted Delta S (cal/mol/K),status,True G (kcal/mol),Classification Dataset,Class Lower Boundary (kcal/mol),Class Upper Boundary (kcal/mol),True Class,Predicted Class,Class Correct,Classification Rule,model,evaluation
+JACS2022-2i-3,23.020519256591797,296.1499938964844,10.73438549041748,-41.48618698120117,OK,21.1421,Co,24.0,26.0,0,0,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+Chem2021-2h-2,22.297630310058594,296.1499938964844,10.226487159729004,-40.760231018066406,OK,21.5407,Co,24.0,26.0,0,0,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+Chem2021-3e-2,21.788970947265625,296.1499938964844,9.908954620361328,-40.11486053466797,OK,21.6777,Co,24.0,26.0,0,0,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+Chem2021-3t-1,23.243417739868164,296.1499938964844,10.889543533325195,-41.71492385864258,OK,22.2701,Co,24.0,26.0,0,0,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+Chem2021-3p-3,22.20998764038086,296.1499938964844,10.179184913635254,-40.624019622802734,OK,23.4104,Co,24.0,26.0,0,0,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+Chem2021-3e-3,22.853443145751953,296.1499938964844,10.717850685119629,-40.97785186767578,OK,24.1575,Co,24.0,26.0,1,0,False,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+JACS2017-7a-1,24.07619285583496,323.1499938964844,10.654648780822754,-41.533477783203125,OK,24.0777,Co,24.0,26.0,1,1,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+JACS2017-3i-3,24.305055618286133,323.1499938964844,10.863539695739746,-41.59528350830078,OK,24.8082,Co,24.0,26.0,1,1,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+JACS2017-3h-2,25.698463439941406,323.1499938964844,11.823431968688965,-42.93681716918945,OK,25.9196,Co,24.0,26.0,1,1,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+JACS2017-3i-2,25.679378509521484,323.1499938964844,11.904051780700684,-42.628273010253906,OK,26.5842,Co,24.0,26.0,2,1,False,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+Chem2021-3x-2,24.996593475341797,333.1499938964844,10.996644973754883,-42.0229606628418,OK,25.6175,Co,24.0,26.0,1,1,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+Chem2021-2g-3,26.125150680541992,333.1499938964844,11.78600025177002,-43.04112243652344,OK,26.0983,Co,24.0,26.0,2,2,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+Chem2021-3x-1,25.388751983642578,333.1499938964844,11.286053657531738,-42.33137893676758,OK,27.006,Co,24.0,26.0,2,1,False,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test
+Organometallics2017-1h-3,28.301401138305664,353.1499938964844,12.782699584960938,-43.94365310668945,OK,28.7619,Co,24.0,26.0,2,2,True,regression_intervals_ir23_25_co24_26_v1,Co_transfer_joint,holdout_test

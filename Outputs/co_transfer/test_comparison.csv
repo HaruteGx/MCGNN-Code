@@ -1,0 +1,2 @@
+n,correct,accuracy,balanced_accuracy,macro_f1,g_mae,g_rmse,g_r2,model,evaluation,accuracy_wilson_95_low,accuracy_wilson_95_high
+14,11,0.7857142857142857,0.7666666666666666,0.7676767676767676,0.755751509094238,0.9463177216418538,0.8187071066869636,Co_transfer_joint,holdout_test,0.524107694133997,0.9242861328730683
