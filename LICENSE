@@ -1,0 +1,57 @@
+MCGNN Non-Commercial Research License
+Version 1.0
+
+Copyright (c) 2026 MCGNN contributors. All rights reserved.
+
+1. Scope and permission
+Subject to these terms, the copyright holders permit you to use, copy, modify,
+and redistribute this project's code and associated documentation solely for
+non-commercial scientific research and academic education. Modified versions
+remain subject to these terms. Rights not expressly granted are reserved.
+Third-party components remain subject to their own licenses. No rights to
+third-party datasets, figures, or other materials are granted by this license.
+
+2. Non-commercial restriction
+You may not use the Software or modified versions for commercial purposes,
+financial gain, or commercial advantage. Prohibited uses include selling or
+licensing the Software; paid services, consulting, or hosted offerings using it;
+incorporating it into commercial products; and research, development, training,
+or deployment conducted to support commercial products or services. Providing
+access free of charge does not authorize an otherwise commercial use.
+Any use outside non-commercial research and academic education requires prior
+written permission from the copyright holders.
+
+3. Attribution and mandatory citation
+Preserve this license and the copyright notice in all copies and substantial
+portions of the Software. Clearly identify modifications and do not imply
+endorsement by the original authors.
+You must acknowledge use of MCGNN and cite the authors' accompanying article in
+publications, preprints, theses, presentations, reports, and other publicly
+shared research outputs that use or rely on the Software or its results.
+The accompanying article is currently unpublished and has no published citation
+or DOI. Until its bibliographic details are supplied in the repository README,
+acknowledge the MCGNN authors and cite the repository URL and the version or
+commit used. Once the authors supply the article citation, use it in subsequent
+research outputs. No unpublished title, author list, DOI, or publication status
+may be fabricated. Citation does not authorize commercial use.
+
+4. Redistribution
+Redistribution is permitted only with this license, the copyright notice,
+and the citation requirement intact, and without granting recipients broader
+rights. Recipients must comply with the same non-commercial restrictions.
+
+5. Termination
+Permission under this license terminates automatically upon breach of its
+terms. After termination, stop using and distributing the Software unless
+written permission is obtained from the copyright holders.
+
+6. Disclaimer
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE EXTENT PERMITTED
+BY APPLICABLE LAW, THE AUTHORS OR COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR
+ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR ITS USE.
+
+This is a custom source-available license, not the MIT License or an
+OSI-approved open-source license.

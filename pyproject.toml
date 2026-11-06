@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcgnn-reaction-conversion"
+version = "0.1.0"
+description = "xTB-augmented multi-branch graph regression with metal-ligand context"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.9,<3.13"
+dependencies = [
+  "dgl",
+  "matplotlib",
+  "networkx",
+  "numpy",
+  "openpyxl",
+  "pandas",
+  "rdkit",
+  "scikit-learn>=1.1",
+  "scipy",
+  "torch",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest",
+  "ruff",
+]
+
+[tool.setuptools]
+packages = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["src/test_suite.py"]
+norecursedirs = ["outputs", "bakeupdata", ".git", ".pytest_cache"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
