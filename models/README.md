@@ -1,6 +1,6 @@
 # Published checkpoints
 
-Model weights use Git LFS. Run `git lfs pull` after cloning.
+Model checkpoints are hosted on [Hugging Face](https://huggingface.co/LiangGroup/MCGNN_Coding/tree/main). Download the checkpoint files listed below and place them in the `models/` directory before running predictions.
 
 - `Ir checkpoints.pth`: Ir pretrained model; selected CV fold 5; fixed 251-record test set.
 - `Co transfer checkpoints.pth`: Co transfer model initialized from Ir; selected fold 1, stage 2; fixed 14-record test set.
